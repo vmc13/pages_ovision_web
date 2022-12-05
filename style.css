@@ -1,0 +1,76 @@
+
+/*NAVBAR*/
+.logo_nb{
+    margin-left: 100px;
+}
+
+.user_profile{
+    margin-right: 100px;
+}
+
+.nav-item{
+    font-weight: 600;
+    padding: 8px;
+    border-radius: 15px;
+    font-size: 17px;
+}
+
+/*MAIN*/
+h1{
+    margin: 1.5rem 0 1.5rem 0;
+    font-size: 2rem;
+    font-weight: 600;
+    padding-left: 10px;
+}
+
+/*FORMULARIO*/
+form{
+    height: 250px;
+    padding: 0 10px 0 10px;
+}
+
+.form-row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-control{
+    width: 200px;
+}
+
+label{
+    font-weight: 500;
+}
+
+/*TABELA*/
+.table{
+    margin-top: 1rem;
+    background-color: #D9D9D9;
+    height: 400px;
+}
+
+.raca{
+    width: 70%;
+}
+
+.teor{
+    width: 20%;
+}
+
+th{
+    font-size: 20px;
+}
+
+
+/*BOTÕES*/
+.last-buttons{
+    margin: 2rem 0 2rem 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.voltar{
+    border: none;
+    font-size: 18px;
+    font-weight: 600;
+}
